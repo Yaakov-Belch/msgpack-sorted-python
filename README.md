@@ -1,3 +1,9 @@
+# ⚠️ This project has been deprecated
+
+**This package is no longer maintained.** For a typed MessagePack serializer, see [tmsgpack](https://github.com/Yaakov-Belch/semifun/tree/main/tmsgpack) (part of [semifun](https://github.com/Yaakov-Belch/semifun)).
+
+---
+
 # MessagePack with key-sorted dictionaries for Python
 
 This package `msgpack_sorted` is a fork of the `msgpack` python package.
